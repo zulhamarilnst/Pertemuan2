@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6n1eExzvli9pzdqhRs3LXwVt54WhCX058gjd+8tksthG2EUq4+MHq4pvNpS8hlmA+HFBxmuJob0sTfu1AF2b4Q==",
+  "success": true,
+  "projectFilePath": "E:\\SEMESTER GENAP TA. 2022-2023\\PEMOGRAMAN\\TUGAS\\MingguKe-II\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zulha\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
